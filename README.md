@@ -2,7 +2,7 @@
 
 This project is part of full stack Javascript web-dev bootcamp hosted by [iNeuron.](https://ineuron.ai/)
 
-## [Live Preview](https://project-interior-design-three.vercel.app/) :link:
+## [Live Preview](https://hosting-site-landing-page.vercel.app/) :link:
 
 ## Project Goal :dart:
 
