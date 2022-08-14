@@ -6,7 +6,7 @@ This project is part of full stack Javascript web-dev bootcamp hosted by [iNeuro
 
 ## Project Goal :dart:
 
-To make the landing page for an imaginary business and mockup was provided. This web page is not responsive as of now.
+To make the landing page for an imaginary business and mockup was provided.
 
 ## Skills Gained
 
