@@ -19,6 +19,7 @@ body {
   margin: 0 auto;
   width: 90%;
 }
+
 section {
   padding-block: 3em;
 }
@@ -68,7 +69,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 0 auto;
+  margin: 3rem auto;
   width: 90%;
 }
 .img-main > img {
@@ -252,6 +253,7 @@ center {
 /* OUR CUSTOMER SECTION */
 .customer-card-container {
   margin: 0 auto;
+  width: 90%;
   max-width: 76.5rem;
 }
 .customer-avatar {
